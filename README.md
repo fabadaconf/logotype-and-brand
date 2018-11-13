@@ -2,13 +2,13 @@
 
 En este repositorio iremos añadiendo los recursos gráficos de la organización: **logotipos, manuales, plantillas de documentos, imágenes...** etc.
 
-Si vas a emplear el logotipo de **Fabada Conference** te rogamos que le eches un vistazo al <a href="https://github.com/fabadaconf/logotype-and-brand/raw/master/corporate-identity-manual/fabada-conf-manual-identidad-grafica.pdf" target="_blank">manual de identidad ( PDF )</a> para ver las aplicaciones disponibles. Si ninguna de las aplicaciones de la marca existentes encaja con lo que se necesita ponte en contacto con [carloscabo](https://github.com/carloscabo) u otro de los administradores de la organización para que te proporcionen una versión adecuada.
+Si vas a emplear el logotipo de **Fabada Conference** te rogamos que le eches un vistazo al <a href="https://github.com/fabadaconf/logotype-and-brand/blob/master/corporate-identity-manual/fabada-conf-manual-identidad-grafica.pdf" target="_blank">manual de identidad ( PDF )</a> para ver las aplicaciones disponibles. Si ninguna de las aplicaciones de la marca existentes encaja con lo que se necesita ponte en contacto con [carloscabo](https://github.com/carloscabo) u otro de los administradores de la organización para que te proporcionen una versión adecuada.
 
 ![Logotipo](https://raw.githubusercontent.com/fabadaconf/logotype-and-brand/master/logotype/fabada-conference-logos-ALL-2019.png)
 
 # logotipo con año y sin año
 
-La idea es actualizar la cifra del año en el logo, para que quede constacia en los materiales de la edición a la que pertenecen (por ejemplo **que las camisetas del evento siempre lleven un logo CON el año**), pero como puede hacer falta un logo para identificar al evento sin relacionarlo con una edición concreta (para prensa, sponsors u otros colaboradores) se proporciona también el logotipo sin el año (ficheros que inluyen en su nombre  `2019` o `no-year`).
+La idea es actualizar la cifra del año en el logo, para que quede constacia en los materiales de la edición a la que pertenecen (por ejemplo **que las camisetas del evento siempre lleven un logo CON el año**), pero como puede hacer falta un logo para identificar al evento sin relacionarlo con una edición concreta (para prensa, sponsors u otros colaboradores) se proporciona también el logotipo sin el año (los logotipos **sin año** incluyen en su nombre: `no-year`).
 
 # logotipo en diferentes formatos
 
