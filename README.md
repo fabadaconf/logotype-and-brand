@@ -4,7 +4,7 @@ En este repositorio iremos añadiendo los recursos gráficos de la organización
 
 Si vas a emplear el logotipo de **Fabada Conference** te rogamos que le eches un vistazo al <a href="https://github.com/fabadaconf/logotype-and-brand/blob/master/corporate-identity-manual/fabada-conf-manual-identidad-grafica.pdf" target="_blank">manual de identidad ( PDF )</a> para ver las aplicaciones disponibles. Si ninguna de las aplicaciones de la marca existentes encaja con lo que se necesita ponte en contacto con [carloscabo](https://github.com/carloscabo) u otro de los administradores de la organización para que te proporcionen una versión adecuada.
 
-![Logotipo](https://raw.githubusercontent.com/fabadaconf/logotype-and-brand/master/logotype/fabada-conference-logos-ALL-2019.png)
+![Logotipo](https://raw.githubusercontent.com/fabadaconf/logotype-and-brand/master/logotype/fabada-conference-logos-ALL-2019_.png)
 
 # logotipo con año y sin año
 
